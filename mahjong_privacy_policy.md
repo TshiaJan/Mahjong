@@ -2,7 +2,7 @@
 
 **Effective Date:** September 17, 2026  
 **Developer:** Tshiamo Jantjie  
-**Contact:** tshiajan@gmail.com  
+**Contact:** janaire.dev@gmail.com  
 
 Thank you for playing **Mahjong Tile Match** ("the Game", "we", "our", or "us"). We respect your privacy and are committed to safeguarding your personal data. This Privacy Policy details our policies regarding information collection, usage, and disclosure when you play the game.
 
@@ -56,4 +56,4 @@ We may update this Privacy Policy periodically. Any updates will be posted here 
 For questions or concerns regarding this Privacy Policy, please contact:
 
 **Tshiamo Jantjie**  
-Email: [tshiajan@gmail.com](mailto:tshiajan@gmail.com)
+Email: [janaire.dev@gmail.com ](mailto:janaire.dev@gmail.com )
